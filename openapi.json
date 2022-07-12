@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Subscribe and Save",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "paths": {
     "/subscriptions/users/{userId}/products/{asin}": {
